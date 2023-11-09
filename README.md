@@ -10,7 +10,7 @@
   
 - 📫  Student in Information Systems at UNIFACISA-PB
 
-- 🌱 I’m currently learning **Node.js and React**
+- 🌱 I’m currently learning **Node.js and React/React Native**
 
 - 💬 Ask me about **Web Development**
 
