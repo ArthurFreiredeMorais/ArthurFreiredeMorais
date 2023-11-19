@@ -29,5 +29,7 @@
 ![arthurfreiredemorais GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurfreiredemorais&show_icons=true&theme=tokyonight)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arthurfreiredemorais&theme=tokyonight" alt="arthurfreiredemorais" /></p>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arthurfreiredemorais&bg_color=000b11&color=000ed1&line=304188&point=002aff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
