@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arthurfreiredemorais&label=Profile%20views&color=0e75b6&style=flat" alt="arthurfreiredemorais" /> </p>
 
-- 🔭 I’m currently working at **RoleCather from Colchester, England, United Kingdom · Remote**
+- 🔭 worked at **RoleCather from Colchester, England, United Kingdom · Remote** for 6 months.
   
 - 📫  Student in Information Systems at UNIFACISA-PB
 
