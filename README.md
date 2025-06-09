@@ -1,4 +1,4 @@
-[![MasterHead](https://uploads.dailydot.com/2019/11/buff-guy-typing-on-laptop.jpg?auto=compress&fm=pjpg)](https://uploads.dailydot.com/2019/11/buff-guy-typing-on-laptop.jpg?auto=compress&fm=pjpg)
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fviventeandante.com%2Fjojos-bizarre-adventure-anuncia-jojoday-2025%2F&psig=AOvVaw0TYNZSd_FdTxc7xdCO3jig&ust=1749514817803000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMDl0NWI440DFQAAAAAdAAAAABAL)
 
 <h1 align="center">Hi 👋, I'm Arthur Freire de Morais</h1>
 <h3 align="center">A passionate Software developer from Brazil</h3>
