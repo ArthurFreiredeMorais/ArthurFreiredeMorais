@@ -6,15 +6,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arthurfreiredemorais&label=Profile%20views&color=0e75b6&style=flat" alt="arthurfreiredemorais" /> </p>
 
-- 🔭 worked at **RoleCather from Colchester, England, United Kingdom · Remote** for 6 months.
+-  worked at **RoleCather from Colchester, England, United Kingdom · Remote** for 6 months.
   
-- 📫  Graduated in Information Systems at UNIFACISA-PB
+-   Graduated in Information Systems at UNIFACISA-PB
 
-- 🌱 I’m currently pusrsuing a master's degree on my field and open to work
+-  I’m currently pusrsuing a master's degree on my field and open to work
 
-- neurolift-nexus.vercel.app checkout my pet project that im developing and feel free to ask me about it
+-  I'm currently developing **[NeuroLift Nexus](https://neurolift-nexus.vercel.app/)**, a pet project I'm passionate about. Feel free to check it out and ask me about it!
 
-- 📫 How to reach me **arthurfreiredemorais@gmail.com**
+
+   How to reach me **arthurfreiredemorais@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
