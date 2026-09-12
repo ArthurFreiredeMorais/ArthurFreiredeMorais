@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently pusrsuing a master's degree on my field and open to work
 
-- 💬 Ask me about **Web Development**
+- neurolift-nexus.vercel.app checkout my pet project that im developing and feel free to ask me about it
 
 - 📫 How to reach me **arthurfreiredemorais@gmail.com**
 
