@@ -8,9 +8,9 @@
 
 - 🔭 worked at **RoleCather from Colchester, England, United Kingdom · Remote** for 6 months.
   
-- 📫  Student in Information Systems at UNIFACISA-PB
+- 📫  Graduated in Information Systems at UNIFACISA-PB
 
-- 🌱 I’m currently learning **Node.js and React/React Native**
+- 🌱 I’m currently pusrsuing a master's degree on my field and open to work
 
 - 💬 Ask me about **Web Development**
 
