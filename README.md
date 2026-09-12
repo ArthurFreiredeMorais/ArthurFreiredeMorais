@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Arthur Freire de Morais</h1>
 <h3 align="center">A passionate Software developer from Brazil</h3>
-<img align="right" alt="Coding" height="200" width="200" src="https://media.tenor.com/epNMHGvRyHcAAAAd/gigachad-chad.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arthurfreiredemorais&label=Profile%20views&color=0e75b6&style=flat" alt="arthurfreiredemorais" /> </p>
 
