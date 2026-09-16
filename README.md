@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/arthurfreiredemorais">LinkedIn</a>
   &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="mailto:arthurfreiredemorais@gmail.com">Email</a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=arthurfreiredemorais@gmail.com">Email</a>
 </p>
 
 ---
