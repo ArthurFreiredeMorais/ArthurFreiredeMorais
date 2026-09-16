@@ -1,36 +1,122 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fviventeandante.com%2Fjojos-bizarre-adventure-anuncia-jojoday-2025%2F&psig=AOvVaw0TYNZSd_FdTxc7xdCO3jig&ust=1749514817803000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMDl0NWI440DFQAAAAAdAAAAABAL)
+<h1 align="center">Arthur Freire de Morais</h1>
 
-<h1 align="center">Hi 👋, I'm Arthur Freire de Morais</h1>
-<h3 align="center">A passionate Software developer from Brazil</h3>
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arthurfreiredemorais&label=Profile%20views&color=0e75b6&style=flat" alt="arthurfreiredemorais" /> </p>
-
--  worked at **RoleCather from Colchester, England, United Kingdom · Remote** for 6 months.
-  
--   Graduated in Information Systems at UNIFACISA-PB
-
--  I’m currently pusrsuing a master's degree on my field and open to work
-
--  I'm currently developing **[NeuroLift Nexus](https://neurolift-nexus.vercel.app/)**, a pet project I'm passionate about. Feel free to check it out and ask me about it!
-
-
-   How to reach me **arthurfreiredemorais@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/arthurfreiredemorais" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/arthurfreiredemorais" height="30" width="40" /></a>
+<p align="center">
+  <strong>Software Developer | Full-Stack Web Development</strong>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://linkedin.com/in/arthurfreiredemorais">LinkedIn</a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="mailto:arthurfreiredemorais@gmail.com">Email</a>
+</p>
 
-##
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurfreiredemorais&theme=tokyonight)](https://github.com/arthurfreiredemorais/github-readme-stats)
-![arthurfreiredemorais GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurfreiredemorais&show_icons=true&theme=tokyonight)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arthurfreiredemorais&theme=tokyonight" alt="arthurfreiredemorais" /></p>
+---
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arthurfreiredemorais&bg_color=000b11&color=000ed1&line=304188&point=002aff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## About
 
+Software Developer with experience building and maintaining modern web applications across front-end and back-end environments.
 
+Bachelor's degree in Information Systems from UNIFACISA, with previous international experience working remotely as a Software Developer at RoleCatcher, a UK-based company.
 
+Currently focused on full-stack development, building production-oriented applications and expanding my experience with modern web technologies, APIs and software architecture.
+
+Preparing to pursue a Master's degree in Computer Science and open to full-time and part-time opportunities, including remote international positions.
+
+---
+
+## Professional Experience
+
+### RoleCatcher
+
+**Software Developer**  
+Remote — Colchester, England, United Kingdom  
+July 2023 – January 2024
+
+Worked on the development and maintenance of web application features in an international remote environment, contributing across front-end and back-end development.
+
+---
+
+## Featured Projects
+
+### NeuroLift Nexus
+
+Full-stack fitness platform designed for workout tracking, exercise progression and performance analysis.
+
+The application allows users to manage their training routines, track repetitions and loads, and monitor their progress over time.
+
+**Technologies:** React · FastAPI · MongoDB · Tailwind CSS
+
+[Live Application](https://neurolift-nexus.vercel.app/)
+
+---
+
+### The Mouth
+
+Responsive web experience developed for a burger delivery brand, with emphasis on visual identity, modern interface design, responsiveness and user experience.
+
+The project is designed as the foundation for a broader platform that can later integrate ordering, inventory management and other business functionality.
+
+[Live Application](https://the-mouth.vercel.app/)
+
+---
+
+## Technologies
+
+### Front-end
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,javascript,html,css,tailwind,bootstrap" alt="Front-end technologies" />
+</p>
+
+### Back-end
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django,nodejs,express" alt="Back-end technologies" />
+</p>
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" alt="Databases" />
+</p>
+
+### Tools and Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma,linux,vscode,vercel" alt="Development tools" />
+</p>
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arthurfreiredemorais&theme=github_dark"
+  width="100%"
+  alt="Arthur Freire de Morais GitHub activity"
+/>
+
+<br />
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arthurfreiredemorais&theme=github_dark"
+  height="180"
+  alt="GitHub statistics"
+/>
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arthurfreiredemorais&theme=github_dark"
+  height="180"
+  alt="Most used languages"
+/>
+
+<br />
+
+<img
+  src="https://streak-stats.demolab.com/?user=arthurfreiredemorais&theme=github-dark-blue&hide_border=true"
+  alt="GitHub contribution streak"
+/>
+
+</div>
